@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm RYU HYNO (Yoo HyeonHo)</h1>
-<h3 align="left">A passionate frontend developer from India</h3>
+<h3 align="left">A passionate frontend developer</h3>
 
 - 🔭 I’m currently working on [개미굴 가이드](https://gaemigul-guide.com)
 
