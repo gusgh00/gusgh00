@@ -1,10 +1,6 @@
 <h1 align="left">Hi 👋, I'm RYU HYNO (Yoo HyeonHo)</h1>
 <h3 align="left">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on [개미굴 가이드](https://gaemigul-guide.com)
-
-- 👨‍💻 All of my projects are available at [https://ryuhyno.notion.site/Yoo-HyeonHo-94b913a6db3a4ca49ef38a291fcfca0c](https://ryuhyno.notion.site/Yoo-HyeonHo-94b913a6db3a4ca49ef38a291fcfca0c)
-
 - 📫 How to reach me **hyno0913@naver.com**
 
 <h3 align="left">Languages and Tools:</h3>
