@@ -1,7 +1,8 @@
-<h1 align="left">Hi 👋, I'm RYU HYNO (Yoo HyeonHo)</h1>
+<h1 align="left">프로덕트를 기획부터 개발까지, 다양한 역할을 수행해온 유현호입니다.</h1>
 <h3 align="left">A passionate frontend developer</h3>
 
-- 📫 How to reach me **hyno0913@naver.com**
+- 🏠 포트폴리오 :: **https://portfolio.hyno.kr**
+- 📫 이메일 :: **hyno0913@naver.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
