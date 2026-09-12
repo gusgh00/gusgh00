@@ -24,7 +24,3 @@
   <img alt="python" src ="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gusgh00&show_icons=true&locale=en&layout=compact" alt="gusgh00" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gusgh00&show_icons=true&locale=en" alt="gusgh00" /></p>
-
